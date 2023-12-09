@@ -12,7 +12,7 @@ incredible together!
 
 ## 🌐 Reach me out:
 
-[!Email](mailto:mismailhossen360@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mismailhossen360@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail121)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/satict2016)
 
