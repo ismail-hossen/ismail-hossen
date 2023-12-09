@@ -61,10 +61,16 @@ incredible together!
 
 ## 👀 Current overview
 
-### 🔭 I’m working on- Medical Camps Management System.
+### 🔭 I’m currently working on **a secret project.**
 
-### 🌱 I’m exploring - Advance react and express for web.
+### 🌱 I’m currently learning **Advance Expressjs and Mongoose**
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking to collaborate on **GitHub**
 
-### 🤔 I’m trying - To help people learn web development.
+### 💬 Ask me about **Web Development**
+
+### 📫 How to reach me **mismailhossen360@gmail.com**
+
+### 📄 Know about my experiences [https://drive.google.com/file/d/1GcA0N102uGD7FhCdDwE2BgV-r9LwtcLG/view?usp=sharing](https://drive.google.com/file/d/1GcA0N102uGD7FhCdDwE2BgV-r9LwtcLG/view?usp=sharing)
+
+### ⚡ Fun fact **I think I am funny for my friends👯**
