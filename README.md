@@ -8,7 +8,7 @@ detail and a drive to stay updated on emerging technologies, I'm dedicated to
 transforming ideas into impactful digital realities. Let's build something
 incredible together!
 
-<img src="./images/cover.png">
+<img src="./images/cover.png" alt="cover"/>
 
 ## 🌐 Reach me out:
 
